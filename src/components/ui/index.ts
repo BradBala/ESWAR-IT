@@ -1,0 +1,11 @@
+export { default as GradientButton } from './GradientButton'
+export { default as BentoCard } from './BentoCard'
+export { default as GlowingChip } from './GlowingChip'
+export { default as SectionHeading } from './SectionHeading'
+export { default as FAQAccordion } from './FAQAccordion'
+
+export type { GradientButtonProps, GradientButtonVariant } from './GradientButton'
+export type { BentoCardProps } from './BentoCard'
+export type { GlowingChipProps } from './GlowingChip'
+export type { SectionHeadingProps, SectionHeadingAlign } from './SectionHeading'
+export type { FAQAccordionProps, FAQItem } from './FAQAccordion'
